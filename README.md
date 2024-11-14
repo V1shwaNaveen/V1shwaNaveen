@@ -78,10 +78,10 @@
 <br>
 <div align="left">
 <br>
-<a href="https://linkedin.com/in/vishwanaveen" target="_blank">
+<a href="https://www.linkedin.com/in/vishwa-naveen/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" width="130" />
 </a>
-<a href="https://twitter.com/vishwanaveen" target="_blank">
+<a href="https://x.com/V1shwa_N" target="_blank">
   <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" width="100" />
 </a>
 <a href="mailto:vishwanaveen@gmail.com" target="_blank">
