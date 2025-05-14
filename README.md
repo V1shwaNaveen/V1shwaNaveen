@@ -8,7 +8,7 @@
 ### 🧑‍💻 About Me
 
 - 🎓 Software Engineering undergraduate @ IIT (Informatics Institute of Technology)
-- 💡 Exploring full-stack dev with **React + Spring Boot**
+- 💡 Exploring full-stack dev with **Flutter || java ||  Spring Boot || React**
 - 🛠️ Actively building personal and freelance projects
 - 📚 Lifelong learner & tech enthusiast
 - 🌍 Based in Sri Lanka
